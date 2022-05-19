@@ -1,4 +1,4 @@
-from coinex import Coinex
+from Coinex_api_client.coinex import Coinex
 
 
 # create an instance of Coinex API client
