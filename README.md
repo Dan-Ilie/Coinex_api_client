@@ -42,4 +42,4 @@ response = cnx.acquire_asset_config("BTC")
 print(response)
 ```
 
-For a full list of endpoints check the wiki.
+For a full list of endpoints check the [wiki](https://github.com/Dan-Ilie/Coinex_api_client/wiki).
