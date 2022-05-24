@@ -3,10 +3,12 @@ Python 3 API client for Coinex trading platform. Using API spec from [Coinex API
 
 
 ## Features
-* Local parameter check
-* Ability to choose how errors are handled
-* Custom Exceptions
+* Supports http API connection to the CoinEx trading platform
 * Easy authenticated requests
+* Local parameter check
+* Ability to choose how parameter errors are handled
+* Custom Exceptions
+
 
 ## Note
 Many functions from the Coinex API client require authentication data. You need to obtain an Access ID and secret key for your account using the steps mentioned [here](https://support.coinex.com/hc/en-us/articles/900004316323-What-is-API-and-how-to-Set-it-Up-) .
